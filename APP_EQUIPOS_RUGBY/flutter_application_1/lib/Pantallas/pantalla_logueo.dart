@@ -18,7 +18,7 @@ class LoginScreen extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               const Text(
-                "Logueo",
+                "Login",
                 style: TextStyle(
                   fontSize: 25,
                   fontWeight: FontWeight.bold
