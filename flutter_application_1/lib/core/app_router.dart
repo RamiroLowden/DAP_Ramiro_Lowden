@@ -1,4 +1,4 @@
-import 'package:flutter_application_1/Pantallas/patalla_principal.dart';
+import 'package:flutter_application_1/Pantallas/pantalla_principal.dart';
 import 'package:flutter_application_1/Pantallas/pantalla_logueo.dart';
 import 'package:go_router/go_router.dart';
 
